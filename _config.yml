@@ -2,10 +2,9 @@ markdown: kramdown
 highlighter: pygments
 permalink: :year/:month/:day/:title
 relative_permalinks: true
-rdiscount:
-  extensions: [smart]
+baseurl: /dev/blog
+production_url : http://isabellema.free.fr/dev/blog/
 title : Isabelle M
-production_url : http://isabellema.free.fr/dev/blog
 description: "Blabla by Isabelle Mahnich."
 disqus_shortname: isabellema
 author :
