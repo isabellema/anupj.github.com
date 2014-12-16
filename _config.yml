@@ -1,15 +1,13 @@
-markdown: rdiscount
+markdown: kramdown
 highlighter: pygments
-permalink: /:year/:month/:day/:title
+permalink: :year/:month/:day/:title
+relative_permalinks: true
 rdiscount:
   extensions: [smart]
-title : Anup Jadhav
-production_url : http://anupjadhav.com
-description: "Thoughts, Ideas, Comments and other things by Anup T Jadhav."
-disqus_shortname: anupj
-analytics: UA-17629471-1
+title : Isabelle M
+production_url : http://isabellema.free.fr/dev/blog
+description: "Blabla by Isabelle Mahnich."
+disqus_shortname: isabellema
 author :
-  name : Anup T Jadhav
-  github : anupj
-  twitter : anup
-  email: anup.jadhav@gmail.com
+  name : Isabelle M
+  github : isabellema
