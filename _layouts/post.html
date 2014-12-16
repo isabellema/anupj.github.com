@@ -4,7 +4,7 @@ layout: layout
 
 <section class="content">
   <h1>
-    <a href="{{ page.url }}">{{ page.title }}</a>
+    <a href="{{ page.url }}">{{ page.title }} [{{page.language}}]</a>
   </h1>
 
   <section class="byline">
@@ -14,3 +14,11 @@ layout: layout
   {{ content }}
   <div class="pull"></div>
 </section>
+<div id="footer" class="hidden-print">
+    <section>
+      <ul class="listing">
+	<li>Please catch <a href="/dev/about_me">me</a> by email or social network if you have suggestions or further questions.</li>
+      </ul>
+    </section>
+</div>
+

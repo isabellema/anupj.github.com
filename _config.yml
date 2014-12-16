@@ -6,7 +6,6 @@ baseurl: /dev/blog
 production_url : http://isabellema.free.fr/dev/blog/
 title : Isabelle M
 description: "Blabla by Isabelle Mahnich."
-disqus_shortname: isabellema
 author :
   name : Isabelle M
   github : isabellema
