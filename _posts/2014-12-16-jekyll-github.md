@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Jekyll + minimalistic design
+layout: post_en
 language: en
+title: Jekyll + minimalistic design
 ---
 While browsing [github](https://github.com) for blogging platforms, I stumbled upon **[jekyll](https://github.com/jekyll/jekyll#jekyll)**.
 
