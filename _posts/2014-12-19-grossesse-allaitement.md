@@ -97,7 +97,7 @@ INVESTISSEMENTS RENTABILISES, PRODUITS TESTES ET APPROUVES
 ALIMENTS TESTES & APPROUVES
 
 * [Biscottes a l'epeautre Demeter >6m](http://www.bebe-au-naturel.com/holle-biscottes-bebe-a-l-epeautre--des-7-mois,bebe,produit,recherche_0-3521-10258.html)
-* [Creme de riz au lit Hipp >6m](http://www.bebe-au-naturel.com/hipp-creme-de-riz-au-lait--des-6-mois--4-x-100g,bebe,produit,806-11535-29398.html#infos)
+* [Creme de riz au lait Hipp >6m](http://www.bebe-au-naturel.com/hipp-creme-de-riz-au-lait--des-6-mois--4-x-100g,bebe,produit,806-11535-29398.html#infos)
 
 * [Muesli Biobim >8m](http://www.bebe-au-naturel.com/biobim-muesli-pour-bebe--des-8-mois--300-g,bebe,produit,480-2298-6858.html)
 * [Biscuits a l'epeautre >8m](http://www.bebe-au-naturel.com/holle-biscuits-a-l-epeautre-pour-bebe--des-8-mois,bebe,produit,recherche_0-3520-10257.html)
