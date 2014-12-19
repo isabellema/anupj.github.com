@@ -92,6 +92,7 @@ INVESTISSEMENTS RENTABILISES, PRODUITS TESTES ET APPROUVES
 
 * [Imagier Sonore Les Instruments du Monde - gallimard-jeunesse.fr](http://www.gallimard-jeunesse.fr/Catalogue/GALLIMARD-JEUNESSE/Mes-petits-imagiers-sonores/Les-instruments-du-monde)
 * [Gobelets Gigognes](http://www.fisher-price.com/fr_FR/products/Gobelets-Gigognes)
+* [Feutres >1an](http://www.crayola.fr/products/8-feutres-des-1-an-product/)
 * [Bag System Toys Bag](http://www.bagsystem.ch/toysbag.html)
 
 ALIMENTS TESTES & APPROUVES
