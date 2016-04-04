@@ -117,7 +117,7 @@ MUSIQUES DU MONDE
 | [Extraits](http://www.amazon.fr/gp/product/B0025H3VMU/) - [Spotify](spotify:album:4kLdHA7uUBq4oF1RKOAGpt) - [Deezer](http://www.deezer.com/album/267371)
 
 * Palavra Cantada - Cancoes de ninar
-| [Extraits](http://www.amazon.fr/gp/product/B0025NERDG/) - [Spotify](spotify:album:2hHSu8lpbY5PProF2K6ui7) - [Deezer](http://www.deezer.com/album/1006527) - [Grooveshark](http://grooveshark.com/#!/album/Can+es+De+Ninar/7258874)
+| [Extraits](http://www.amazon.fr/gp/product/B0025NERDG/) - [Spotify](spotify:album:2hHSu8lpbY5PProF2K6ui7) - [Deezer](http://www.deezer.com/album/1006527)
 
 * Easy - Secret Agent 23 Skidoo
 | [Spotify](spotify:album:2agrc12HfEQJHut1K4kF0O) - [Deezer](http://www.deezer.com/album/2943411)
@@ -178,7 +178,7 @@ FRANCAIS
 CLASSIQUE
 
 * Baby Needs Guitar - Brazilian Guitar Quartet
-| [Extraits](http://www.amazon.fr/Baby-Needs-Guitar-Brazilian-Quartet/dp/B0024IP6Z0/) - [Spotify](spotify:album:5m8aheVTKQCJecd6Gb2RsG) - [Deezer](http://www.deezer.com/album/3624841) - [Grooveshark](http://grooveshark.com/#!/album/Baby+Needs+Guitar/7678005)
+| [Extraits](http://www.amazon.fr/Baby-Needs-Guitar-Brazilian-Quartet/dp/B0024IP6Z0/) - [Spotify](spotify:album:5m8aheVTKQCJecd6Gb2RsG) - [Deezer](http://www.deezer.com/album/3624841)
 
 ----
 
@@ -194,5 +194,3 @@ Les labels qui m'interessent particulierement sont donc :
 * [Gallimard Jeunesse](http://www.gallimard-jeunesse.fr/Catalogue/GALLIMARD-JEUNESSE/Mes-petits-imagiers-sonores)
 * [Nathan](http://www.nathan.fr/jeunesse/livre-enfant/0-3ans-livres-cd.asp?ordre=date_parution)
 * [Jeunesse Flammarion](http://editions.flammarion.com/Catalogues_List.cfm?CategID=3892&levelCode=jeunesse)
-
-On met egalement [Radio Junior](http://radiojunior.com/) de temps en temps.
