@@ -11,7 +11,7 @@
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300'
     rel='stylesheet' type='text/css'>
 
-  <link href="{{ site.baseurl }}/css/up.css" rel="stylesheet">
+  <link href="{{ site.baseurl | prepend: site.github.url }}/css/up.css" rel="stylesheet">
 
   <!--[if lt IE 9]>
   <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -59,6 +59,6 @@
     {{ content }}
   </div>
 <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-<script src="{{ site.baseurl }}/js/up.js"></script>
+<script src="{{ site.baseurl | prepend: site.github.url }}/js/up.js"></script>
 </body>
 </html>
