@@ -1,7 +1,6 @@
 markdown: kramdown
 highlighter: pygments
 permalink: :year/:month/:day/:title
-relative_permalinks: true
 baseurl: /dev/blog
 production_url : http://isabellema.free.fr/dev/blog/
 title : Isabelle M
